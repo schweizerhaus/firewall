@@ -1,6 +1,6 @@
-! GitHub allowlist for AdGuard
+# Andrew's Custom Allowlist for AdGuard
 
-! Core GitHub
+# Core GitHub
 @@||github.com^
 @@||api.github.com^
 @@||uploads.github.com^
@@ -12,10 +12,24 @@
 @@||objects.githubusercontent.com^
 @@||avatars.githubusercontent.com^
 @@||codeload.github.com^
-
-! Optional but useful
 @@||docs.github.com^
 @@||githubstatus.com^
 @@||alive.github.com^
 @@||education.github.com^
 @@||support.github.com^
+
+# Related to the downstairs TV working properly
+@@||us.tvsdp.lgeapi.com^
+@@||us.ad.lgsmartad.com^
+@@||us.info.lgsmartad.com^
+@@||us.lgrecommends.lgappstv.com^
+@@||i.ytimg.com^
+@@||cdn-aas-campaigns.alphonso.tv^
+@@||aic.cdpsvc.lgtvcommon.com^
+@@||aic-op-lss.lgthinq.com^
+@@||aic-ngfts.lge.com^
+@@||na-imp-pix.adstk.io^
+@@||us.lgtvsdp.com^
+
+# Media stack
+@@||api.themoviedb.org^
