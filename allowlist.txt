@@ -1,0 +1,21 @@
+! GitHub allowlist for AdGuard
+
+! Core GitHub
+@@||github.com^
+@@||api.github.com^
+@@||uploads.github.com^
+@@||raw.githubusercontent.com^
+@@||gist.github.com^
+@@||githubusercontent.com^
+@@||githubassets.com^
+@@||github.githubassets.com^
+@@||objects.githubusercontent.com^
+@@||avatars.githubusercontent.com^
+@@||codeload.github.com^
+
+! Optional but useful
+@@||docs.github.com^
+@@||githubstatus.com^
+@@||alive.github.com^
+@@||education.github.com^
+@@||support.github.com^
